@@ -1,0 +1,11 @@
+/Users/luisalmeida/Projects/day6of6_printingTriangle/bin/Debug/netcoreapp2.0/day6of6_printingTriangle.deps.json
+/Users/luisalmeida/Projects/day6of6_printingTriangle/bin/Debug/netcoreapp2.0/day6of6_printingTriangle.runtimeconfig.json
+/Users/luisalmeida/Projects/day6of6_printingTriangle/bin/Debug/netcoreapp2.0/day6of6_printingTriangle.runtimeconfig.dev.json
+/Users/luisalmeida/Projects/day6of6_printingTriangle/bin/Debug/netcoreapp2.0/day6of6_printingTriangle.dll
+/Users/luisalmeida/Projects/day6of6_printingTriangle/bin/Debug/netcoreapp2.0/day6of6_printingTriangle.pdb
+/Users/luisalmeida/Projects/day6of6_printingTriangle/obj/Debug/netcoreapp2.0/day6of6_printingTriangle.csprojResolveAssemblyReference.cache
+/Users/luisalmeida/Projects/day6of6_printingTriangle/obj/Debug/netcoreapp2.0/day6of6_printingTriangle.csproj.CoreCompileInputs.cache
+/Users/luisalmeida/Projects/day6of6_printingTriangle/obj/Debug/netcoreapp2.0/day6of6_printingTriangle.AssemblyInfoInputs.cache
+/Users/luisalmeida/Projects/day6of6_printingTriangle/obj/Debug/netcoreapp2.0/day6of6_printingTriangle.AssemblyInfo.cs
+/Users/luisalmeida/Projects/day6of6_printingTriangle/obj/Debug/netcoreapp2.0/day6of6_printingTriangle.dll
+/Users/luisalmeida/Projects/day6of6_printingTriangle/obj/Debug/netcoreapp2.0/day6of6_printingTriangle.pdb

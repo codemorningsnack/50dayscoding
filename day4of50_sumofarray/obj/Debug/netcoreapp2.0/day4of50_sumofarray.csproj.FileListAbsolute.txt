@@ -1,0 +1,11 @@
+/Users/luisalmeida/Projects/day4of50_sumofarray/obj/Debug/netcoreapp2.0/day4of50_sumofarray.csprojResolveAssemblyReference.cache
+/Users/luisalmeida/Projects/day4of50_sumofarray/obj/Debug/netcoreapp2.0/day4of50_sumofarray.csproj.CoreCompileInputs.cache
+/Users/luisalmeida/Projects/day4of50_sumofarray/obj/Debug/netcoreapp2.0/day4of50_sumofarray.AssemblyInfoInputs.cache
+/Users/luisalmeida/Projects/day4of50_sumofarray/obj/Debug/netcoreapp2.0/day4of50_sumofarray.AssemblyInfo.cs
+/Users/luisalmeida/Projects/day4of50_sumofarray/bin/Debug/netcoreapp2.0/day4of50_sumofarray.deps.json
+/Users/luisalmeida/Projects/day4of50_sumofarray/bin/Debug/netcoreapp2.0/day4of50_sumofarray.runtimeconfig.json
+/Users/luisalmeida/Projects/day4of50_sumofarray/bin/Debug/netcoreapp2.0/day4of50_sumofarray.runtimeconfig.dev.json
+/Users/luisalmeida/Projects/day4of50_sumofarray/bin/Debug/netcoreapp2.0/day4of50_sumofarray.dll
+/Users/luisalmeida/Projects/day4of50_sumofarray/bin/Debug/netcoreapp2.0/day4of50_sumofarray.pdb
+/Users/luisalmeida/Projects/day4of50_sumofarray/obj/Debug/netcoreapp2.0/day4of50_sumofarray.dll
+/Users/luisalmeida/Projects/day4of50_sumofarray/obj/Debug/netcoreapp2.0/day4of50_sumofarray.pdb

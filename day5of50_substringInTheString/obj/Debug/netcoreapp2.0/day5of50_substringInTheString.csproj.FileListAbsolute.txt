@@ -1,0 +1,11 @@
+/Users/luisalmeida/Projects/day5of50_substringInTheString/bin/Debug/netcoreapp2.0/day5of50_substringInTheString.deps.json
+/Users/luisalmeida/Projects/day5of50_substringInTheString/bin/Debug/netcoreapp2.0/day5of50_substringInTheString.runtimeconfig.json
+/Users/luisalmeida/Projects/day5of50_substringInTheString/bin/Debug/netcoreapp2.0/day5of50_substringInTheString.runtimeconfig.dev.json
+/Users/luisalmeida/Projects/day5of50_substringInTheString/bin/Debug/netcoreapp2.0/day5of50_substringInTheString.dll
+/Users/luisalmeida/Projects/day5of50_substringInTheString/bin/Debug/netcoreapp2.0/day5of50_substringInTheString.pdb
+/Users/luisalmeida/Projects/day5of50_substringInTheString/obj/Debug/netcoreapp2.0/day5of50_substringInTheString.csprojResolveAssemblyReference.cache
+/Users/luisalmeida/Projects/day5of50_substringInTheString/obj/Debug/netcoreapp2.0/day5of50_substringInTheString.csproj.CoreCompileInputs.cache
+/Users/luisalmeida/Projects/day5of50_substringInTheString/obj/Debug/netcoreapp2.0/day5of50_substringInTheString.AssemblyInfoInputs.cache
+/Users/luisalmeida/Projects/day5of50_substringInTheString/obj/Debug/netcoreapp2.0/day5of50_substringInTheString.AssemblyInfo.cs
+/Users/luisalmeida/Projects/day5of50_substringInTheString/obj/Debug/netcoreapp2.0/day5of50_substringInTheString.dll
+/Users/luisalmeida/Projects/day5of50_substringInTheString/obj/Debug/netcoreapp2.0/day5of50_substringInTheString.pdb

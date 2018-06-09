@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day2of50-longeststring", "day2of50-longeststring.csproj", "{2F8AEF94-206D-48BF-820A-6CDC0363A820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F8AEF94-206D-48BF-820A-6CDC0363A820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8AEF94-206D-48BF-820A-6CDC0363A820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8AEF94-206D-48BF-820A-6CDC0363A820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8AEF94-206D-48BF-820A-6CDC0363A820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

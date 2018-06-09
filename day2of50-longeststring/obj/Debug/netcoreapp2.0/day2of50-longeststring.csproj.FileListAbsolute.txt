@@ -1,0 +1,11 @@
+/Users/luisalmeida/Projects/day2of50-longeststring/obj/Debug/netcoreapp2.0/day2of50-longeststring.csprojResolveAssemblyReference.cache
+/Users/luisalmeida/Projects/day2of50-longeststring/obj/Debug/netcoreapp2.0/day2of50-longeststring.csproj.CoreCompileInputs.cache
+/Users/luisalmeida/Projects/day2of50-longeststring/obj/Debug/netcoreapp2.0/day2of50-longeststring.AssemblyInfoInputs.cache
+/Users/luisalmeida/Projects/day2of50-longeststring/obj/Debug/netcoreapp2.0/day2of50-longeststring.AssemblyInfo.cs
+/Users/luisalmeida/Projects/day2of50-longeststring/bin/Debug/netcoreapp2.0/day2of50-longeststring.deps.json
+/Users/luisalmeida/Projects/day2of50-longeststring/bin/Debug/netcoreapp2.0/day2of50-longeststring.runtimeconfig.json
+/Users/luisalmeida/Projects/day2of50-longeststring/bin/Debug/netcoreapp2.0/day2of50-longeststring.runtimeconfig.dev.json
+/Users/luisalmeida/Projects/day2of50-longeststring/bin/Debug/netcoreapp2.0/day2of50-longeststring.dll
+/Users/luisalmeida/Projects/day2of50-longeststring/bin/Debug/netcoreapp2.0/day2of50-longeststring.pdb
+/Users/luisalmeida/Projects/day2of50-longeststring/obj/Debug/netcoreapp2.0/day2of50-longeststring.dll
+/Users/luisalmeida/Projects/day2of50-longeststring/obj/Debug/netcoreapp2.0/day2of50-longeststring.pdb

@@ -1,0 +1,11 @@
+/Users/luisalmeida/Projects/day3of50_multiply_integers_arrays/bin/Debug/netcoreapp2.0/day3of50_multiply_integers_arrays.deps.json
+/Users/luisalmeida/Projects/day3of50_multiply_integers_arrays/bin/Debug/netcoreapp2.0/day3of50_multiply_integers_arrays.runtimeconfig.json
+/Users/luisalmeida/Projects/day3of50_multiply_integers_arrays/bin/Debug/netcoreapp2.0/day3of50_multiply_integers_arrays.runtimeconfig.dev.json
+/Users/luisalmeida/Projects/day3of50_multiply_integers_arrays/bin/Debug/netcoreapp2.0/day3of50_multiply_integers_arrays.dll
+/Users/luisalmeida/Projects/day3of50_multiply_integers_arrays/bin/Debug/netcoreapp2.0/day3of50_multiply_integers_arrays.pdb
+/Users/luisalmeida/Projects/day3of50_multiply_integers_arrays/obj/Debug/netcoreapp2.0/day3of50_multiply_integers_arrays.csprojResolveAssemblyReference.cache
+/Users/luisalmeida/Projects/day3of50_multiply_integers_arrays/obj/Debug/netcoreapp2.0/day3of50_multiply_integers_arrays.csproj.CoreCompileInputs.cache
+/Users/luisalmeida/Projects/day3of50_multiply_integers_arrays/obj/Debug/netcoreapp2.0/day3of50_multiply_integers_arrays.AssemblyInfoInputs.cache
+/Users/luisalmeida/Projects/day3of50_multiply_integers_arrays/obj/Debug/netcoreapp2.0/day3of50_multiply_integers_arrays.AssemblyInfo.cs
+/Users/luisalmeida/Projects/day3of50_multiply_integers_arrays/obj/Debug/netcoreapp2.0/day3of50_multiply_integers_arrays.dll
+/Users/luisalmeida/Projects/day3of50_multiply_integers_arrays/obj/Debug/netcoreapp2.0/day3of50_multiply_integers_arrays.pdb
