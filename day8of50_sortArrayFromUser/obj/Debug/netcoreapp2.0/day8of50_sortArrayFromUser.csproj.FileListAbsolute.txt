@@ -1,0 +1,11 @@
+/Users/luisalmeida/Projects/day8of50_sortArrayFromUser/bin/Debug/netcoreapp2.0/day8of50_sortArrayFromUser.deps.json
+/Users/luisalmeida/Projects/day8of50_sortArrayFromUser/bin/Debug/netcoreapp2.0/day8of50_sortArrayFromUser.runtimeconfig.json
+/Users/luisalmeida/Projects/day8of50_sortArrayFromUser/bin/Debug/netcoreapp2.0/day8of50_sortArrayFromUser.runtimeconfig.dev.json
+/Users/luisalmeida/Projects/day8of50_sortArrayFromUser/bin/Debug/netcoreapp2.0/day8of50_sortArrayFromUser.dll
+/Users/luisalmeida/Projects/day8of50_sortArrayFromUser/bin/Debug/netcoreapp2.0/day8of50_sortArrayFromUser.pdb
+/Users/luisalmeida/Projects/day8of50_sortArrayFromUser/obj/Debug/netcoreapp2.0/day8of50_sortArrayFromUser.csprojResolveAssemblyReference.cache
+/Users/luisalmeida/Projects/day8of50_sortArrayFromUser/obj/Debug/netcoreapp2.0/day8of50_sortArrayFromUser.csproj.CoreCompileInputs.cache
+/Users/luisalmeida/Projects/day8of50_sortArrayFromUser/obj/Debug/netcoreapp2.0/day8of50_sortArrayFromUser.AssemblyInfoInputs.cache
+/Users/luisalmeida/Projects/day8of50_sortArrayFromUser/obj/Debug/netcoreapp2.0/day8of50_sortArrayFromUser.AssemblyInfo.cs
+/Users/luisalmeida/Projects/day8of50_sortArrayFromUser/obj/Debug/netcoreapp2.0/day8of50_sortArrayFromUser.dll
+/Users/luisalmeida/Projects/day8of50_sortArrayFromUser/obj/Debug/netcoreapp2.0/day8of50_sortArrayFromUser.pdb

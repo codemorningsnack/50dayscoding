@@ -56,6 +56,7 @@ namespace day7of50_oddNaturalNumbersAndTheirSum
 
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("The sum of the odd numbers is {0}", sum);
+           
 
         }
 
