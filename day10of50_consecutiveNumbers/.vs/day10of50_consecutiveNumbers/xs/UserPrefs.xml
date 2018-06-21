@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{E1394A57-A027-4B7B-8726-B41E6BF75D13}|Default">
+﻿<Properties StartupConfiguration="{32106315-3A92-4D9A-A41A-29150FA3B1DC}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="51" Column="17" />
+      <File FileName="Program.cs" Line="9" Column="47" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -9,6 +9,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.day10of50__consecutiveNumbers PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.day8of50__sortArrayFromUser PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,0 +1,11 @@
+/Users/luisalmeida/Projects/day10of50_consecutiveNumbers/bin/Debug/netcoreapp2.0/day10of50_consecutiveNumbers.deps.json
+/Users/luisalmeida/Projects/day10of50_consecutiveNumbers/bin/Debug/netcoreapp2.0/day10of50_consecutiveNumbers.runtimeconfig.json
+/Users/luisalmeida/Projects/day10of50_consecutiveNumbers/bin/Debug/netcoreapp2.0/day10of50_consecutiveNumbers.runtimeconfig.dev.json
+/Users/luisalmeida/Projects/day10of50_consecutiveNumbers/bin/Debug/netcoreapp2.0/day10of50_consecutiveNumbers.dll
+/Users/luisalmeida/Projects/day10of50_consecutiveNumbers/bin/Debug/netcoreapp2.0/day10of50_consecutiveNumbers.pdb
+/Users/luisalmeida/Projects/day10of50_consecutiveNumbers/obj/Debug/netcoreapp2.0/day10of50_consecutiveNumbers.csprojResolveAssemblyReference.cache
+/Users/luisalmeida/Projects/day10of50_consecutiveNumbers/obj/Debug/netcoreapp2.0/day10of50_consecutiveNumbers.csproj.CoreCompileInputs.cache
+/Users/luisalmeida/Projects/day10of50_consecutiveNumbers/obj/Debug/netcoreapp2.0/day10of50_consecutiveNumbers.AssemblyInfoInputs.cache
+/Users/luisalmeida/Projects/day10of50_consecutiveNumbers/obj/Debug/netcoreapp2.0/day10of50_consecutiveNumbers.AssemblyInfo.cs
+/Users/luisalmeida/Projects/day10of50_consecutiveNumbers/obj/Debug/netcoreapp2.0/day10of50_consecutiveNumbers.dll
+/Users/luisalmeida/Projects/day10of50_consecutiveNumbers/obj/Debug/netcoreapp2.0/day10of50_consecutiveNumbers.pdb
