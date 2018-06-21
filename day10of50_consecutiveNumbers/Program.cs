@@ -60,12 +60,7 @@ namespace day10of50_consecutiveNumbers
             }
 
 
-            //// showing the values
-            //foreach (var number in numbers)
-            //{
-            //    Console.WriteLine(number);
-            //}
-
+          
             // show the result
             Console.WriteLine("Consecutive numbers:{0}", result);
 
